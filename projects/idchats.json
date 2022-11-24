@@ -1,0 +1,18 @@
+{
+  "name": "IDChats",
+  "slug": "idchats",
+  "date": "2022-11-23",
+  "highlight": "A utility Dapp for EVM address users to communicate across the chain.",
+  "logo": "",
+  "tags":["dapp","dao"],
+"status": "live",
+"website": "https://www.idchats.com",
+"twitter": "https://twitter.com/idchats",
+"summary": "IDChats is a decentralized live messaging application.It is committed to being the secure communication infrastructure on blockchain.You can communicate with any EVM address and compatible witha wide range of Social Graphs and decentralized identity services.",
+"telegram": "",
+"discord": "",
+"docs": "",
+"github": "https://github.com/IDChats",
+"token": "",
+"cmc": ""
+}
